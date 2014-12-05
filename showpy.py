@@ -12,7 +12,7 @@ import md5
 
 # Global Vars
 path = "/home/torrents/"
-path_cache = "/home/showrss/"
+path_cache = "/home/showpy/"
 url = "http://showrss.info/rss.php?user_id=######"
 feed = feedparser.parse(url)
 
